@@ -8,7 +8,7 @@ Original inspiration [from StackOverflow](http://stackoverflow.com/questions/200
 ## Installation
 
 ```bash
-$ cordova plugin add cordova-plugin-filepath
+$ cordova plugin add https://github.com/compuhelmac/cordova-plugin-filepath.git
 ```
 
 ## Supported Platforms
